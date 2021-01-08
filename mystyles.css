@@ -5,22 +5,16 @@ body {
 h1 {
     color: rgb(0, 119, 128);
     margin-left: 20px;
-    text-align: center;
 }
 
 table, td {
     border: 1px solid black;
-    text-align: center;
 }
 
 td {
     padding: 10px;
 }
 
-ul {
-    text-align: center;
-}
-
-a {
+div {
     text-align: center;
 }
